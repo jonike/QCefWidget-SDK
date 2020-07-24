@@ -4,6 +4,10 @@
 
 `QCefWidget`项目提供一个Widget来显示网页.
 
+相对于直接使用CEF库，`QCefWidget`保留了扩展性的同时极大的简化了使用流程，方便集成到您的应用中.
+
+相对于直接使用Qt提供的QWebEngineView，`QCefWidget`更加灵活，可以很方便的切换CEF版本.
+
 支持：
 
 ✅ 同时支持CEF OSR和非OSR模式;
