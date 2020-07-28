@@ -6,6 +6,8 @@ The QCefWidget project provide a widget that used to view webpage.
 
 Support:
 
+✅ Easy to use, can be integrated into your project with a few lines code;
+
 ✅ Supports both CEF OSR and non-OSR mode;
    
 ✅ Show background transparent webpage in irregularity window;
