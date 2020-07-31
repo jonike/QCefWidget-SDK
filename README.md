@@ -26,13 +26,14 @@ Support:
 
 ✅ Drag/Drop frameless window like Electron throught setting CSS property.
 
+✅ Automatically adapt to system's DPI change.
+
 # QCefWidgetTester
-QCefWidgetTester is a test project of QCefWidget. You can see some of the features of QCefWidget throught QCefWidgetTester.
+QCefWidgetTester is a test project of QCefWidget. You can see some of the features of QCefWidget throught it.
 
 Run:
 `QCefWidgetTester\QCefWidgetTest.exe`
 
-# About source code
-If you need source code or other help, please contact me:
+---
 
 `Email: winsoft666#outlook.com`

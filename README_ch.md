@@ -28,6 +28,10 @@
 
 ✅ 支持Adobe Flash, 没有任何警告，如"Control-click to run Adobe Flash Player".
 
+✅ 支持像Electron那样，通过设置CSS属性来支持无边框窗体的拖拽.
+
+✅ 自动适应系统DPI的改变.
+
 ---
 
 # QCefWidgetTester
