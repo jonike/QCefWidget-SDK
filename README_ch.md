@@ -41,8 +41,6 @@ QCefWidgetTester是QCefWidget的测试程序. 通过这个测试程序，您可�
 运行:
 `QCefWidgetTester\QCefWidgetTest.exe`
 
-# 关于源码
-
-如果您需要源代码或者其他帮助，可以联系我：
+---
 
 `Email: winsoft666#outlook.com`
