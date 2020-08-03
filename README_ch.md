@@ -55,8 +55,8 @@ QCefWidgetTester是QCefWidget的测试程序. 通过这个测试程序，您可�
 ---
 
 # 截图
-![screenshot1 on windows](.\Screenshot\Screenshot1.png)
-![screenshot2 on windows](.\Screenshot\Screenshot2.png)
+![screenshot1 on windows](Screenshot/screenshot1.png)
+![screenshot2 on windows](Screenshot/screenshot2.png)
 
 ---
 

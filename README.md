@@ -47,9 +47,9 @@ Run:
 ---
 
 # Screenshot
-![screenshot1 on windows](Screenshot/Screenshot1.png)
+![screenshot1 on windows](Screenshot/screenshot1.png)
 
-![screenshot2 on windows](Screenshot/Screenshot2.png)
+![screenshot2 on windows](Screenshot/screenshot2.png)
 
 ---
 
