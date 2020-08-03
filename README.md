@@ -28,11 +28,27 @@ Support:
 
 ✅ Automatically adapt to system's DPI change.
 
+# Quick start
+Use QCefWidget as a normal QWidget:
+
+```c++
+QCefWidget pCefWidget = new QCefWidget();
+pCefWidget->navigateToUrl("https://www.google.com");
+```
+
+For more property settings, see [QCefWidget.h](.\SDK\msvc2017_x86_shared\include\QCefWidget.h).
+
 # QCefWidgetTester
 QCefWidgetTester is a test project of QCefWidget. You can see some of the features of QCefWidget throught it.
 
 Run:
 `QCefWidgetTester\QCefWidgetTest.exe`
+
+---
+
+# Screenshot
+![screenshot1 on windows](.Screenshot\Screenshot1.png)
+![screenshot2 on windows](.Screenshot\Screenshot2.png)
 
 ---
 

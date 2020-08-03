@@ -33,6 +33,17 @@
 ✅ 自动适应系统DPI的改变.
 
 ---
+# 快速开始
+将QCefWidget作为一个普通的QWidget使用即可:
+
+```c++
+QCefWidget pCefWidget = new QCefWidget();
+pCefWidget->navigateToUrl("https://www.google.com");
+```
+
+更多的属性设置, 请参考 [QCefWidget.h](.\SDK\msvc2017_x86_shared\include\QCefWidget.h).
+
+---
 
 # QCefWidgetTester
 
@@ -40,6 +51,12 @@ QCefWidgetTester是QCefWidget的测试程序. 通过这个测试程序，您可�
 
 运行:
 `QCefWidgetTester\QCefWidgetTest.exe`
+
+---
+
+# 截图
+![screenshot1 on windows](.Screenshot\Screenshot1.png)
+![screenshot2 on windows](.Screenshot\Screenshot2.png)
 
 ---
 
