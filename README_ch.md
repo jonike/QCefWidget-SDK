@@ -2,7 +2,7 @@
 
 # QCefWidget
 
-`QCefWidget`项目提供一个Widget来显示网页.
+`QCefWidget`项目提供一个Widget来显示网页，并可以与网页进行深度交互.
 
 相对于直接使用CEF库，`QCefWidget`保留了扩展性的同时极大的简化了使用流程，方便集成到您的应用中.
 
@@ -41,7 +41,7 @@ QCefWidget pCefWidget = new QCefWidget();
 pCefWidget->navigateToUrl("https://www.google.com");
 ```
 
-更多的属性设置, 请参考 [QCefWidget.h](.\SDK\msvc2017_x86_shared\include\QCefWidget.h).
+更多的属性设置, 请参考 [QCefWidget.h](./SDK/msvc2017_x86_shared/include/QCefWidget.h).
 
 ---
 
