@@ -2,7 +2,7 @@
 
 # QCefWidget
 
-The QCefWidget project provide a widget that used to view webpage. 
+The QCefWidget project provide a widget that used to view webpage, and can interact deeply with web.
 
 Support:
 
