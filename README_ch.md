@@ -45,12 +45,11 @@ pCefWidget->navigateToUrl("https://www.google.com");
 
 ---
 
-# QCefWidgetTester
+# Demo
 
-QCefWidgetTester是QCefWidget的测试程序. 通过这个测试程序，您可以看到该库的部分特性.
+Demo目录中是QCefWidget的示例程序. 
 
-运行:
-`QCefWidgetTester\QCefWidgetTest.exe`
+可以通过`RunDemo.exe`来启动。
 
 ---
 

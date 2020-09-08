@@ -38,11 +38,10 @@ pCefWidget->navigateToUrl("https://www.google.com");
 
 For more property settings, see [QCefWidget.h](./SDK/msvc2017_x86_shared/include/QCefWidget.h).
 
-# QCefWidgetTester
-QCefWidgetTester is a test project of QCefWidget. You can see some of the features of QCefWidget throught it.
+# Demo
+There is a demo project about QCefWidget in Demo directory. 
 
-Run:
-`QCefWidgetTester\QCefWidgetTest.exe`
+Using `RunDemo.bat` to start it.
 
 ---
 

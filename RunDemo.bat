@@ -1,1 +1,1 @@
-start "%~dp0\Demo\QCefWidgetTest.exe"
+"%~dp0\Demo\QCefWidgetTest.exe"
